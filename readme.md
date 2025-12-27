@@ -1,1 +1,1 @@
-curl -L https://github.com/123hi123/amazonq-installer/raw/main/q.zip -o q.zip && unzip q.zip && cd q && ./install.sh
+curl -L https://github.com/123hi123/amazonq/raw/main/q.zip -o q.zip && unzip q.zip && cd q && ./install.sh
